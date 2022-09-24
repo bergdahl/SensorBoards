@@ -6,7 +6,7 @@ Arduoino sketch for connecting a [SEEED Multichannel Gas Sensor V1](https://wiki
 
 Create a file named `secrets.h` in the same directory as the .ino file with the following content.
 
-````
+```
 #define WIFI_SSID "<Your SSID>"
 #define WIFI_PASSWORD "<Your WiFi password>"
 
